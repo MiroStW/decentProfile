@@ -264,8 +264,7 @@ This project is licensed under the GPL License - see the [LICENSE](LICENSE) file
 For support and questions:
 
 - Create an issue in the GitHub repository
-- Check the [Wiki](https://github.com/your-username/decentProfile/wiki) for documentation
-- Join our [Discord community](https://discord.gg/your-invite)
+- Join the [Discord channel](https://discord.com/channels/795391195852308501/933879561513492490)
 
 ## 🎯 Roadmap
 
