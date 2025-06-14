@@ -68,7 +68,7 @@ A comprehensive web application for creating, managing, and sharing espresso bre
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/decentProfile.git
+   git clone https://github.com/obiwan007/decentProfile.git
    cd decentProfile
    ```
 
